@@ -1,0 +1,8 @@
+title: "Puskesmas Sawah Pulo"
+description: "Website resmi Puskesmas Sawah Pulo Kota Surabaya"
+baseurl: ""        # kosongkan jika root
+url: "https://pkmsawahpulo-sby.github.io" 
+theme: minima      # atau tema kustom Anda
+exclude:
+  - Gemfile
+  - Gemfile.lock
